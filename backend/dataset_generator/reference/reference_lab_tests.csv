@@ -1,0 +1,21 @@
+Lab_Test_Code,Lab_Test_Name,Category,Specimen,Unit,Normal_Range,Department
+LT001,Complete Blood Count,Hematology,Blood,Cells/uL,Normal,Pathology
+LT002,Blood Glucose,Biochemistry,Blood,mg/dL,70-110,Biochemistry
+LT003,HbA1c,Diabetes,Blood,%,4.0-5.6,Biochemistry
+LT004,Serum Creatinine,Kidney,Blood,mg/dL,0.7-1.3,Biochemistry
+LT005,Blood Urea Nitrogen,Kidney,Blood,mg/dL,7-20,Biochemistry
+LT006,Serum Sodium,Electrolytes,Blood,mmol/L,135-145,Biochemistry
+LT007,Serum Potassium,Electrolytes,Blood,mmol/L,3.5-5.1,Biochemistry
+LT008,Serum Calcium,Electrolytes,Blood,mg/dL,8.5-10.5,Biochemistry
+LT009,Liver Function Test,Liver,Blood,IU/L,Normal,Biochemistry
+LT010,Lipid Profile,Cardiology,Blood,mg/dL,Normal,Biochemistry
+LT011,Troponin I,Cardiology,Blood,ng/mL,<0.04,Cardiology
+LT012,D-Dimer,Coagulation,Blood,ng/mL,<500,Pathology
+LT013,C-Reactive Protein,Inflammation,Blood,mg/L,<5,Pathology
+LT014,Urine Routine Examination,Urinalysis,Urine,N/A,Normal,Pathology
+LT015,Thyroid Profile,Endocrinology,Blood,uIU/mL,Normal,Endocrinology
+LT016,Vitamin D,Nutrition,Blood,ng/mL,30-100,Biochemistry
+LT017,Vitamin B12,Nutrition,Blood,pg/mL,200-900,Biochemistry
+LT018,COVID-19 RT-PCR,Virology,Nasopharyngeal Swab,N/A,Negative,Microbiology
+LT019,Blood Culture,Microbiology,Blood,N/A,No Growth,Microbiology
+LT020,Pregnancy Test (hCG),Obstetrics,Urine,N/A,Negative,Gynecology

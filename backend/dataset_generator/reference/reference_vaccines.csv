@@ -1,0 +1,16 @@
+Vaccine_Code,Vaccine_Name,Disease_Prevented,Category,Dose,Route
+VAC001,BCG,Tuberculosis,Childhood,Single,Intradermal
+VAC002,Hepatitis B,Hepatitis B,Childhood,3 Dose,Intramuscular
+VAC003,OPV,Polio,Childhood,Multiple,Oral
+VAC004,IPV,Polio,Childhood,Multiple,Intramuscular
+VAC005,DPT,"Diphtheria, Pertussis, Tetanus",Childhood,3 Dose,Intramuscular
+VAC006,MMR,"Measles, Mumps, Rubella",Childhood,2 Dose,Subcutaneous
+VAC007,Varicella,Chickenpox,Childhood,2 Dose,Subcutaneous
+VAC008,Rotavirus,Rotavirus Infection,Childhood,Oral Series,Oral
+VAC009,Pneumococcal,Pneumococcal Disease,Childhood,Multiple,Intramuscular
+VAC010,Influenza,Seasonal Flu,Adult,Annual,Intramuscular
+VAC011,COVID-19,COVID-19,Adult,Booster,Intramuscular
+VAC012,HPV,Human Papillomavirus,Adolescent,2-3 Dose,Intramuscular
+VAC013,Typhoid,Typhoid Fever,Travel,Single,Intramuscular
+VAC014,Rabies,Rabies,Emergency,Multiple,Intramuscular
+VAC015,Japanese Encephalitis,Japanese Encephalitis,Travel,2 Dose,Intramuscular

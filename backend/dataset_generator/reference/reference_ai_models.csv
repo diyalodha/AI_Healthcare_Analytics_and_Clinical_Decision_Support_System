@@ -1,0 +1,11 @@
+Model_Code,Model_Name,Algorithm,Category,Version,Accuracy,Status,Description
+AI001,Disease Risk Prediction,Random Forest,Classification,1.0,94.30%,Production,Predicts future disease risk.
+AI002,Hospital Readmission Prediction,XGBoost,Classification,1.0,92.80%,Production,Predicts readmission probability.
+AI003,ICU Mortality Prediction,LightGBM,Classification,1.0,95.10%,Production,Predicts ICU mortality risk.
+AI004,Length of Stay Prediction,CatBoost,Regression,1.0,91.20%,Production,Predicts hospital stay duration.
+AI005,Sepsis Early Detection,XGBoost,Classification,1.0,96.00%,Production,Early warning for sepsis.
+AI006,Diabetes Prediction,Logistic Regression,Classification,1.0,90.60%,Production,Predicts diabetes occurrence.
+AI007,Heart Disease Prediction,Random Forest,Classification,1.0,93.40%,Production,Predicts cardiovascular disease.
+AI008,Kidney Disease Prediction,Gradient Boosting,Classification,1.0,94.10%,Production,Predicts chronic kidney disease.
+AI009,Patient Health Score,Ensemble Learning,Scoring,1.0,95.70%,Production,Generates overall patient health score.
+AI010,Clinical Decision Support,Rule Based + ML,Recommendation,1.0,97.20%,Production,Generates AI clinical recommendations.

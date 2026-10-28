@@ -1,0 +1,13 @@
+Reference_ID,Component_Code,Component_Name,Component_Category,Compatible_Blood_Groups,Storage_Temperature,Shelf_Life,Common_Indications,Status,Created_Source
+BC_REF_001,BC001,Whole Blood,Whole Blood,All,2-6°C,35 Days,Massive Blood Loss,Active,Synthetic_Master_Data
+BC_REF_002,BC002,Packed Red Blood Cells,RBC,"A+,A-,B+,B-,AB+,AB-,O+,O-",2-6°C,42 Days,"Anemia, Blood Loss",Active,Synthetic_Master_Data
+BC_REF_003,BC003,Fresh Frozen Plasma,Plasma,AB Universal Plasma,-30°C,1 Year,Coagulation Disorders,Active,Synthetic_Master_Data
+BC_REF_004,BC004,Platelet Concentrate,Platelets,Compatible,20-24°C,5 Days,Thrombocytopenia,Active,Synthetic_Master_Data
+BC_REF_005,BC005,Cryoprecipitate,Plasma Derivative,Compatible,-30°C,1 Year,Factor VIII Deficiency,Active,Synthetic_Master_Data
+BC_REF_006,BC006,Leukocyte Reduced RBC,RBC Modified,Compatible,2-6°C,42 Days,Immunocompromised Patients,Active,Synthetic_Master_Data
+BC_REF_007,BC007,Irradiated RBC,RBC Modified,Compatible,2-6°C,28 Days,"Cancer Patients, Transplant Patients",Active,Synthetic_Master_Data
+BC_REF_008,BC008,Single Donor Platelets,Platelets,Compatible,20-24°C,5 Days,Critical Care,Active,Synthetic_Master_Data
+BC_REF_009,BC009,Granulocyte Concentrate,Cellular Component,Compatible,20-24°C,24 Hours,"Severe Infection, Neutropenia",Active,Synthetic_Master_Data
+BC_REF_010,BC010,Albumin,Plasma Protein,Universal,Room Temperature,3 Years,Hypovolemia,Active,Synthetic_Master_Data
+BC_REF_011,BC011,Immunoglobulin,Plasma Derivative,Universal,2-8°C,2 Years,Immune Disorders,Active,Synthetic_Master_Data
+BC_REF_012,BC012,Stem Cell Product,Cellular Therapy,Matched,Liquid Nitrogen,Long Term,Bone Marrow Transplant,Active,Synthetic_Master_Data

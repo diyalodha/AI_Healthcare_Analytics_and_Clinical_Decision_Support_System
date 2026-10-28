@@ -1,0 +1,41 @@
+Allergy_Code,Allergy_Name,Category,Severity
+ALG001,Penicillin,Medication,High
+ALG002,Amoxicillin,Medication,High
+ALG003,Aspirin,Medication,Medium
+ALG004,Ibuprofen,Medication,Medium
+ALG005,Sulfa Drugs,Medication,High
+ALG006,Insulin,Medication,Low
+ALG007,Latex,Material,High
+ALG008,Nickel,Material,Medium
+ALG009,Dust Mites,Environmental,Medium
+ALG010,Pollen,Environmental,Medium
+ALG011,Grass,Environmental,Low
+ALG012,Mold,Environmental,Medium
+ALG013,Animal Dander,Environmental,Medium
+ALG014,Bee Sting,Insect,High
+ALG015,Wasp Sting,Insect,High
+ALG016,Mosquito Bite,Insect,Low
+ALG017,Peanuts,Food,High
+ALG018,Tree Nuts,Food,High
+ALG019,Milk,Food,Medium
+ALG020,Egg,Food,Medium
+ALG021,Soy,Food,Medium
+ALG022,Wheat,Food,Medium
+ALG023,Shellfish,Food,High
+ALG024,Fish,Food,Medium
+ALG025,Sesame,Food,Medium
+ALG026,Chocolate,Food,Low
+ALG027,Strawberry,Food,Low
+ALG028,Banana,Food,Low
+ALG029,Tomato,Food,Low
+ALG030,Seafood,Food,High
+ALG031,Contrast Dye,Medication,High
+ALG032,Iodine,Chemical,Medium
+ALG033,Alcohol,Chemical,Low
+ALG034,Perfume,Chemical,Low
+ALG035,Cleaning Chemicals,Chemical,Medium
+ALG036,Sunlight,Environmental,Low
+ALG037,Cold Temperature,Environmental,Low
+ALG038,Heat,Environmental,Low
+ALG039,Smoke,Environmental,Medium
+ALG040,Pet Hair,Environmental,Medium

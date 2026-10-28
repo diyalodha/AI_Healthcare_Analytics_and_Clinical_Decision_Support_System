@@ -1,0 +1,336 @@
+Diagnosis_Code,Diagnosis_Name,Department,Severity,ICD_Version,Active_Status
+DX0001,Hypertension,Cardiology,Medium,ICD-10,Yes
+DX0002,Essential Hypertension,Cardiology,Medium,ICD-10,Yes
+DX0003,Secondary Hypertension,Cardiology,High,ICD-10,Yes
+DX0004,Coronary Artery Disease,Cardiology,High,ICD-10,Yes
+DX0005,Acute Myocardial Infarction,Cardiology,Critical,ICD-10,Yes
+DX0006,Old Myocardial Infarction,Cardiology,High,ICD-10,Yes
+DX0007,Heart Failure,Cardiology,Critical,ICD-10,Yes
+DX0008,Congestive Heart Failure,Cardiology,Critical,ICD-10,Yes
+DX0009,Cardiomyopathy,Cardiology,High,ICD-10,Yes
+DX0010,Atrial Fibrillation,Cardiology,High,ICD-10,Yes
+DX0011,Bradycardia,Cardiology,Medium,ICD-10,Yes
+DX0012,Tachycardia,Cardiology,Medium,ICD-10,Yes
+DX0013,Heart Block,Cardiology,High,ICD-10,Yes
+DX0014,Mitral Valve Disease,Cardiology,Medium,ICD-10,Yes
+DX0015,Aortic Stenosis,Cardiology,High,ICD-10,Yes
+DX0016,Pulmonary Hypertension,Cardiology,High,ICD-10,Yes
+DX0017,Peripheral Artery Disease,Cardiology,Medium,ICD-10,Yes
+DX0018,Deep Vein Thrombosis,Cardiology,High,ICD-10,Yes
+DX0019,Hyperlipidemia,Cardiology,Medium,ICD-10,Yes
+DX0020,Stable Angina,Cardiology,Medium,ICD-10,Yes
+DX0021,Stroke,Neurology,Critical,ICD-10,Yes
+DX0022,Transient Ischemic Attack,Neurology,High,ICD-10,Yes
+DX0023,Epilepsy,Neurology,High,ICD-10,Yes
+DX0024,Migraine,Neurology,Medium,ICD-10,Yes
+DX0025,Parkinson Disease,Neurology,High,ICD-10,Yes
+DX0026,Alzheimer Disease,Neurology,High,ICD-10,Yes
+DX0027,Dementia,Neurology,High,ICD-10,Yes
+DX0028,Multiple Sclerosis,Neurology,High,ICD-10,Yes
+DX0029,Bell Palsy,Neurology,Medium,ICD-10,Yes
+DX0030,Peripheral Neuropathy,Neurology,Medium,ICD-10,Yes
+DX0031,Brain Tumor,Neurology,Critical,ICD-10,Yes
+DX0032,Meningitis,Neurology,Critical,ICD-10,Yes
+DX0033,Encephalitis,Neurology,Critical,ICD-10,Yes
+DX0034,Vertigo,Neurology,Low,ICD-10,Yes
+DX0035,Cluster Headache,Neurology,Medium,ICD-10,Yes
+DX0036,Trigeminal Neuralgia,Neurology,Medium,ICD-10,Yes
+DX0037,Guillain Barre Syndrome,Neurology,Critical,ICD-10,Yes
+DX0038,Cerebral Edema,Neurology,Critical,ICD-10,Yes
+DX0039,Subarachnoid Hemorrhage,Neurology,Critical,ICD-10,Yes
+DX0040,Intracerebral Hemorrhage,Neurology,Critical,ICD-10,Yes
+DX0041,Asthma,Pulmonology,Medium,ICD-10,Yes
+DX0042,Bronchial Asthma,Pulmonology,Medium,ICD-10,Yes
+DX0043,COPD,Pulmonology,High,ICD-10,Yes
+DX0044,Pneumonia,Pulmonology,High,ICD-10,Yes
+DX0045,COVID-19,Pulmonology,High,ICD-10,Yes
+DX0046,Tuberculosis,Pulmonology,High,ICD-10,Yes
+DX0047,Pleural Effusion,Pulmonology,High,ICD-10,Yes
+DX0048,Pulmonary Embolism,Pulmonology,Critical,ICD-10,Yes
+DX0049,Pulmonary Fibrosis,Pulmonology,High,ICD-10,Yes
+DX0050,Acute Respiratory Failure,Pulmonology,Critical,ICD-10,Yes
+DX0051,Sleep Apnea,Pulmonology,Medium,ICD-10,Yes
+DX0052,Acute Bronchitis,Pulmonology,Low,ICD-10,Yes
+DX0053,Chronic Bronchitis,Pulmonology,Medium,ICD-10,Yes
+DX0054,Lung Cancer,Pulmonology,Critical,ICD-10,Yes
+DX0055,Interstitial Lung Disease,Pulmonology,High,ICD-10,Yes
+DX0056,Pneumothorax,Pulmonology,Critical,ICD-10,Yes
+DX0057,Hemoptysis,Pulmonology,High,ICD-10,Yes
+DX0058,Respiratory Syncytial Virus Infection,Pulmonology,Medium,ICD-10,Yes
+DX0059,Influenza,Pulmonology,Medium,ICD-10,Yes
+DX0060,Empyema,Pulmonology,High,ICD-10,Yes
+DX0061,Type 1 Diabetes Mellitus,Endocrinology,High,ICD-10,Yes
+DX0062,Type 2 Diabetes Mellitus,Endocrinology,High,ICD-10,Yes
+DX0063,Diabetic Ketoacidosis,Endocrinology,Critical,ICD-10,Yes
+DX0064,Hypoglycemia,Endocrinology,Medium,ICD-10,Yes
+DX0065,Hyperglycemia,Endocrinology,Medium,ICD-10,Yes
+DX0066,Hypothyroidism,Endocrinology,Medium,ICD-10,Yes
+DX0067,Hyperthyroidism,Endocrinology,Medium,ICD-10,Yes
+DX0068,Goiter,Endocrinology,Low,ICD-10,Yes
+DX0069,Cushing Syndrome,Endocrinology,High,ICD-10,Yes
+DX0070,Addison Disease,Endocrinology,High,ICD-10,Yes
+DX0071,Acromegaly,Endocrinology,High,ICD-10,Yes
+DX0072,Pituitary Adenoma,Endocrinology,High,ICD-10,Yes
+DX0073,Hyperparathyroidism,Endocrinology,Medium,ICD-10,Yes
+DX0074,Hypoparathyroidism,Endocrinology,Medium,ICD-10,Yes
+DX0075,Obesity,Endocrinology,Medium,ICD-10,Yes
+DX0076,Metabolic Syndrome,Endocrinology,Medium,ICD-10,Yes
+DX0077,Vitamin D Deficiency,Endocrinology,Low,ICD-10,Yes
+DX0078,Osteoporosis,Endocrinology,Medium,ICD-10,Yes
+DX0079,Gestational Diabetes,Endocrinology,High,ICD-10,Yes
+DX0080,Insulin Resistance,Endocrinology,Medium,ICD-10,Yes
+DX0081,GERD,Gastroenterology,Low,ICD-10,Yes
+DX0082,Gastritis,Gastroenterology,Low,ICD-10,Yes
+DX0083,Peptic Ulcer Disease,Gastroenterology,Medium,ICD-10,Yes
+DX0084,Acute Pancreatitis,Gastroenterology,High,ICD-10,Yes
+DX0085,Chronic Pancreatitis,Gastroenterology,High,ICD-10,Yes
+DX0086,Hepatitis B,Gastroenterology,High,ICD-10,Yes
+DX0087,Hepatitis C,Gastroenterology,High,ICD-10,Yes
+DX0088,Liver Cirrhosis,Gastroenterology,Critical,ICD-10,Yes
+DX0089,Fatty Liver Disease,Gastroenterology,Medium,ICD-10,Yes
+DX0090,Gallstones,Gastroenterology,Medium,ICD-10,Yes
+DX0091,Acute Cholecystitis,Gastroenterology,High,ICD-10,Yes
+DX0092,Appendicitis,Gastroenterology,High,ICD-10,Yes
+DX0093,Crohn Disease,Gastroenterology,High,ICD-10,Yes
+DX0094,Ulcerative Colitis,Gastroenterology,High,ICD-10,Yes
+DX0095,Irritable Bowel Syndrome,Gastroenterology,Low,ICD-10,Yes
+DX0096,Constipation,Gastroenterology,Low,ICD-10,Yes
+DX0097,Diarrhea,Gastroenterology,Low,ICD-10,Yes
+DX0098,Hemorrhoids,Gastroenterology,Low,ICD-10,Yes
+DX0099,Colon Cancer,Gastroenterology,Critical,ICD-10,Yes
+DX0100,Rectal Bleeding,Gastroenterology,High,ICD-10,Yes
+DX0101,Acute Kidney Injury,Nephrology,Critical,ICD-10,Yes
+DX0102,Chronic Kidney Disease Stage 1,Nephrology,Medium,ICD-10,Yes
+DX0103,Chronic Kidney Disease Stage 2,Nephrology,Medium,ICD-10,Yes
+DX0104,Chronic Kidney Disease Stage 3,Nephrology,High,ICD-10,Yes
+DX0105,Chronic Kidney Disease Stage 4,Nephrology,High,ICD-10,Yes
+DX0106,Chronic Kidney Disease Stage 5,Nephrology,Critical,ICD-10,Yes
+DX0107,End Stage Renal Disease,Nephrology,Critical,ICD-10,Yes
+DX0108,Nephrotic Syndrome,Nephrology,High,ICD-10,Yes
+DX0109,Nephritic Syndrome,Nephrology,High,ICD-10,Yes
+DX0110,Glomerulonephritis,Nephrology,High,ICD-10,Yes
+DX0111,Pyelonephritis,Nephrology,Medium,ICD-10,Yes
+DX0112,Urinary Tract Infection,Nephrology,Low,ICD-10,Yes
+DX0113,Kidney Stones,Nephrology,Medium,ICD-10,Yes
+DX0114,Hydronephrosis,Nephrology,Medium,ICD-10,Yes
+DX0115,Renal Failure,Nephrology,Critical,ICD-10,Yes
+DX0116,Polycystic Kidney Disease,Nephrology,High,ICD-10,Yes
+DX0117,Proteinuria,Nephrology,Medium,ICD-10,Yes
+DX0118,Hematuria,Nephrology,Medium,ICD-10,Yes
+DX0119,Electrolyte Imbalance,Nephrology,Medium,ICD-10,Yes
+DX0120,Hyperkalemia,Nephrology,Critical,ICD-10,Yes
+DX0121,Osteoarthritis,Orthopedics,Medium,ICD-10,Yes
+DX0122,Rheumatoid Arthritis,Orthopedics,High,ICD-10,Yes
+DX0123,Osteoporosis,Orthopedics,Medium,ICD-10,Yes
+DX0124,Fracture Femur,Orthopedics,High,ICD-10,Yes
+DX0125,Fracture Tibia,Orthopedics,High,ICD-10,Yes
+DX0126,Fracture Radius,Orthopedics,Medium,ICD-10,Yes
+DX0127,Shoulder Dislocation,Orthopedics,Medium,ICD-10,Yes
+DX0128,ACL Tear,Orthopedics,Medium,ICD-10,Yes
+DX0129,Meniscus Tear,Orthopedics,Medium,ICD-10,Yes
+DX0130,Scoliosis,Orthopedics,Medium,ICD-10,Yes
+DX0131,Spinal Stenosis,Orthopedics,High,ICD-10,Yes
+DX0132,Cervical Spondylosis,Orthopedics,Medium,ICD-10,Yes
+DX0133,Lumbar Disc Herniation,Orthopedics,High,ICD-10,Yes
+DX0134,Frozen Shoulder,Orthopedics,Low,ICD-10,Yes
+DX0135,Tennis Elbow,Orthopedics,Low,ICD-10,Yes
+DX0136,Carpal Tunnel Syndrome,Orthopedics,Medium,ICD-10,Yes
+DX0137,Bone Tumor,Orthopedics,Critical,ICD-10,Yes
+DX0138,Hip Fracture,Orthopedics,High,ICD-10,Yes
+DX0139,Pelvic Fracture,Orthopedics,Critical,ICD-10,Yes
+DX0140,Ankle Sprain,Orthopedics,Low,ICD-10,Yes
+DX0141,Psoriasis,Dermatology,Medium,ICD-10,Yes
+DX0142,Eczema,Dermatology,Low,ICD-10,Yes
+DX0143,Acne Vulgaris,Dermatology,Low,ICD-10,Yes
+DX0144,Vitiligo,Dermatology,Low,ICD-10,Yes
+DX0145,Melanoma,Dermatology,Critical,ICD-10,Yes
+DX0146,Basal Cell Carcinoma,Dermatology,Medium,ICD-10,Yes
+DX0147,Squamous Cell Carcinoma,Dermatology,High,ICD-10,Yes
+DX0148,Cellulitis,Dermatology,High,ICD-10,Yes
+DX0149,Fungal Infection,Dermatology,Low,ICD-10,Yes
+DX0150,Urticaria,Dermatology,Low,ICD-10,Yes
+DX0151,Contact Dermatitis,Dermatology,Low,ICD-10,Yes
+DX0152,Herpes Zoster,Dermatology,Medium,ICD-10,Yes
+DX0153,Scabies,Dermatology,Low,ICD-10,Yes
+DX0154,Ringworm,Dermatology,Low,ICD-10,Yes
+DX0155,Alopecia,Dermatology,Low,ICD-10,Yes
+DX0156,Impetigo,Dermatology,Low,ICD-10,Yes
+DX0157,Rosacea,Dermatology,Low,ICD-10,Yes
+DX0158,Skin Abscess,Dermatology,Medium,ICD-10,Yes
+DX0159,Drug Rash,Dermatology,Medium,ICD-10,Yes
+DX0160,Pressure Ulcer,Dermatology,Medium,ICD-10,Yes
+DX0161,Cataract,Ophthalmology,Medium,ICD-10,Yes
+DX0162,Glaucoma,Ophthalmology,High,ICD-10,Yes
+DX0163,Diabetic Retinopathy,Ophthalmology,High,ICD-10,Yes
+DX0164,Retinal Detachment,Ophthalmology,Critical,ICD-10,Yes
+DX0165,Conjunctivitis,Ophthalmology,Low,ICD-10,Yes
+DX0166,Corneal Ulcer,Ophthalmology,High,ICD-10,Yes
+DX0167,Dry Eye Syndrome,Ophthalmology,Low,ICD-10,Yes
+DX0168,Macular Degeneration,Ophthalmology,High,ICD-10,Yes
+DX0169,Optic Neuritis,Ophthalmology,High,ICD-10,Yes
+DX0170,Eye Trauma,Ophthalmology,High,ICD-10,Yes
+DX0171,Myopia,Ophthalmology,Low,ICD-10,Yes
+DX0172,Hypermetropia,Ophthalmology,Low,ICD-10,Yes
+DX0173,Astigmatism,Ophthalmology,Low,ICD-10,Yes
+DX0174,Color Blindness,Ophthalmology,Low,ICD-10,Yes
+DX0175,Uveitis,Ophthalmology,Medium,ICD-10,Yes
+DX0176,Otitis Media,ENT,Low,ICD-10,Yes
+DX0177,Otitis Externa,ENT,Low,ICD-10,Yes
+DX0178,Sinusitis,ENT,Low,ICD-10,Yes
+DX0179,Tonsillitis,ENT,Low,ICD-10,Yes
+DX0180,Pharyngitis,ENT,Low,ICD-10,Yes
+DX0181,Laryngitis,ENT,Low,ICD-10,Yes
+DX0182,Deviated Nasal Septum,ENT,Medium,ICD-10,Yes
+DX0183,Hearing Loss,ENT,Medium,ICD-10,Yes
+DX0184,Vertigo,ENT,Medium,ICD-10,Yes
+DX0185,Mastoiditis,ENT,High,ICD-10,Yes
+DX0186,Nasal Polyps,ENT,Medium,ICD-10,Yes
+DX0187,Epistaxis,ENT,Medium,ICD-10,Yes
+DX0188,Cholesteatoma,ENT,High,ICD-10,Yes
+DX0189,Vocal Cord Paralysis,ENT,High,ICD-10,Yes
+DX0190,Sleep Apnea,ENT,Medium,ICD-10,Yes
+DX0191,Major Depressive Disorder,Psychiatry,High,ICD-10,Yes
+DX0192,Generalized Anxiety Disorder,Psychiatry,Medium,ICD-10,Yes
+DX0193,Bipolar Disorder,Psychiatry,High,ICD-10,Yes
+DX0194,Schizophrenia,Psychiatry,Critical,ICD-10,Yes
+DX0195,Panic Disorder,Psychiatry,Medium,ICD-10,Yes
+DX0196,Obsessive Compulsive Disorder,Psychiatry,Medium,ICD-10,Yes
+DX0197,Post Traumatic Stress Disorder,Psychiatry,High,ICD-10,Yes
+DX0198,Attention Deficit Hyperactivity Disorder,Psychiatry,Medium,ICD-10,Yes
+DX0199,Autism Spectrum Disorder,Psychiatry,Medium,ICD-10,Yes
+DX0200,Insomnia,Psychiatry,Low,ICD-10,Yes
+DX0201,Substance Use Disorder,Psychiatry,High,ICD-10,Yes
+DX0202,Alcohol Dependence,Psychiatry,High,ICD-10,Yes
+DX0203,Eating Disorder,Psychiatry,Medium,ICD-10,Yes
+DX0204,Personality Disorder,Psychiatry,Medium,ICD-10,Yes
+DX0205,Suicidal Ideation,Psychiatry,Critical,ICD-10,Yes
+DX0206,Breast Cancer,Oncology,Critical,ICD-10,Yes
+DX0207,Lung Cancer,Oncology,Critical,ICD-10,Yes
+DX0208,Colorectal Cancer,Oncology,Critical,ICD-10,Yes
+DX0209,Prostate Cancer,Oncology,High,ICD-10,Yes
+DX0210,Cervical Cancer,Oncology,High,ICD-10,Yes
+DX0211,Ovarian Cancer,Oncology,High,ICD-10,Yes
+DX0212,Pancreatic Cancer,Oncology,Critical,ICD-10,Yes
+DX0213,Liver Cancer,Oncology,Critical,ICD-10,Yes
+DX0214,Leukemia,Oncology,Critical,ICD-10,Yes
+DX0215,Lymphoma,Oncology,Critical,ICD-10,Yes
+DX0216,Multiple Myeloma,Oncology,Critical,ICD-10,Yes
+DX0217,Brain Cancer,Oncology,Critical,ICD-10,Yes
+DX0218,Thyroid Cancer,Oncology,High,ICD-10,Yes
+DX0219,Skin Melanoma,Oncology,Critical,ICD-10,Yes
+DX0220,Bladder Cancer,Oncology,High,ICD-10,Yes
+DX0221,Kidney Cancer,Oncology,High,ICD-10,Yes
+DX0222,Esophageal Cancer,Oncology,Critical,ICD-10,Yes
+DX0223,Gastric Cancer,Oncology,Critical,ICD-10,Yes
+DX0224,Testicular Cancer,Oncology,Medium,ICD-10,Yes
+DX0225,Benign Neoplasm,Oncology,Low,ICD-10,Yes
+DX0226,Neonatal Jaundice,Pediatrics,Medium,ICD-10,Yes
+DX0227,Bronchiolitis,Pediatrics,Medium,ICD-10,Yes
+DX0228,Chickenpox,Pediatrics,Low,ICD-10,Yes
+DX0229,Measles,Pediatrics,Medium,ICD-10,Yes
+DX0230,Mumps,Pediatrics,Low,ICD-10,Yes
+DX0231,Rubella,Pediatrics,Low,ICD-10,Yes
+DX0232,Hand Foot Mouth Disease,Pediatrics,Low,ICD-10,Yes
+DX0233,Rotavirus Infection,Pediatrics,Medium,ICD-10,Yes
+DX0234,Whooping Cough,Pediatrics,Medium,ICD-10,Yes
+DX0235,Failure To Thrive,Pediatrics,High,ICD-10,Yes
+DX0236,Congenital Heart Disease,Pediatrics,Critical,ICD-10,Yes
+DX0237,Cerebral Palsy,Pediatrics,High,ICD-10,Yes
+DX0238,Down Syndrome,Pediatrics,Medium,ICD-10,Yes
+DX0239,Neonatal Sepsis,Pediatrics,Critical,ICD-10,Yes
+DX0240,Prematurity,Pediatrics,Critical,ICD-10,Yes
+DX0241,Normal Pregnancy,Obstetrics,Low,ICD-10,Yes
+DX0242,High Risk Pregnancy,Obstetrics,High,ICD-10,Yes
+DX0243,Gestational Hypertension,Obstetrics,High,ICD-10,Yes
+DX0244,Preeclampsia,Obstetrics,Critical,ICD-10,Yes
+DX0245,Eclampsia,Obstetrics,Critical,ICD-10,Yes
+DX0246,Placenta Previa,Obstetrics,Critical,ICD-10,Yes
+DX0247,Placental Abruption,Obstetrics,Critical,ICD-10,Yes
+DX0248,Preterm Labor,Obstetrics,Critical,ICD-10,Yes
+DX0249,Postpartum Hemorrhage,Obstetrics,Critical,ICD-10,Yes
+DX0250,Hyperemesis Gravidarum,Obstetrics,Medium,ICD-10,Yes
+DX0251,Polycystic Ovary Syndrome,Gynecology,Medium,ICD-10,Yes
+DX0252,Endometriosis,Gynecology,Medium,ICD-10,Yes
+DX0253,Uterine Fibroids,Gynecology,Medium,ICD-10,Yes
+DX0254,Pelvic Inflammatory Disease,Gynecology,High,ICD-10,Yes
+DX0255,Ovarian Cyst,Gynecology,Medium,ICD-10,Yes
+DX0256,Menorrhagia,Gynecology,Medium,ICD-10,Yes
+DX0257,Dysmenorrhea,Gynecology,Low,ICD-10,Yes
+DX0258,Cervicitis,Gynecology,Medium,ICD-10,Yes
+DX0259,Infertility,Gynecology,Medium,ICD-10,Yes
+DX0260,Menopause,Gynecology,Low,ICD-10,Yes
+DX0261,Benign Prostatic Hyperplasia,Urology,Medium,ICD-10,Yes
+DX0262,Prostatitis,Urology,Medium,ICD-10,Yes
+DX0263,Urinary Retention,Urology,Medium,ICD-10,Yes
+DX0264,Bladder Stones,Urology,Medium,ICD-10,Yes
+DX0265,Hydrocele,Urology,Low,ICD-10,Yes
+DX0266,Varicocele,Urology,Low,ICD-10,Yes
+DX0267,Erectile Dysfunction,Urology,Low,ICD-10,Yes
+DX0268,Urinary Incontinence,Urology,Medium,ICD-10,Yes
+DX0269,Testicular Torsion,Urology,Critical,ICD-10,Yes
+DX0270,Bladder Infection,Urology,Medium,ICD-10,Yes
+DX0271,Dengue Fever,Infectious Diseases,High,ICD-10,Yes
+DX0272,Malaria,Infectious Diseases,High,ICD-10,Yes
+DX0273,Typhoid Fever,Infectious Diseases,Medium,ICD-10,Yes
+DX0274,Cholera,Infectious Diseases,Critical,ICD-10,Yes
+DX0275,Leptospirosis,Infectious Diseases,High,ICD-10,Yes
+DX0276,Rabies,Infectious Diseases,Critical,ICD-10,Yes
+DX0277,HIV Infection,Infectious Diseases,High,ICD-10,Yes
+DX0278,AIDS,Infectious Diseases,Critical,ICD-10,Yes
+DX0279,Sepsis,Infectious Diseases,Critical,ICD-10,Yes
+DX0280,Septic Shock,Infectious Diseases,Critical,ICD-10,Yes
+DX0281,Influenza A,Infectious Diseases,Medium,ICD-10,Yes
+DX0282,COVID-19 Pneumonia,Infectious Diseases,Critical,ICD-10,Yes
+DX0283,Meningococcal Infection,Infectious Diseases,Critical,ICD-10,Yes
+DX0284,Tuberculous Meningitis,Infectious Diseases,Critical,ICD-10,Yes
+DX0285,Food Poisoning,Infectious Diseases,Low,ICD-10,Yes
+DX0286,Polytrauma,Emergency,Critical,ICD-10,Yes
+DX0287,Road Traffic Accident,Emergency,Critical,ICD-10,Yes
+DX0288,Burn Injury,Emergency,Critical,ICD-10,Yes
+DX0289,Electric Shock,Emergency,Critical,ICD-10,Yes
+DX0290,Poisoning,Emergency,Critical,ICD-10,Yes
+DX0291,Snake Bite,Emergency,Critical,ICD-10,Yes
+DX0292,Cardiac Arrest,Emergency,Critical,ICD-10,Yes
+DX0293,Anaphylactic Shock,Emergency,Critical,ICD-10,Yes
+DX0294,Heat Stroke,Emergency,High,ICD-10,Yes
+DX0295,Hypothermia,Emergency,High,ICD-10,Yes
+DX0296,Acute Respiratory Distress Syndrome,Critical Care,Critical,ICD-10,Yes
+DX0297,Multi Organ Failure,Critical Care,Critical,ICD-10,Yes
+DX0298,Ventilator Associated Pneumonia,Critical Care,Critical,ICD-10,Yes
+DX0299,Septic Shock,Critical Care,Critical,ICD-10,Yes
+DX0300,Acute Liver Failure,Critical Care,Critical,ICD-10,Yes
+DX0301,Acute Heart Failure,Critical Care,Critical,ICD-10,Yes
+DX0302,Disseminated Intravascular Coagulation,Critical Care,Critical,ICD-10,Yes
+DX0303,Severe Electrolyte Imbalance,Critical Care,Critical,ICD-10,Yes
+DX0304,Coma,Critical Care,Critical,ICD-10,Yes
+DX0305,Shock,Critical Care,Critical,ICD-10,Yes
+DX0306,Iron Deficiency Anemia,Hematology,Medium,ICD-10,Yes
+DX0307,Megaloblastic Anemia,Hematology,Medium,ICD-10,Yes
+DX0308,Hemolytic Anemia,Hematology,High,ICD-10,Yes
+DX0309,Aplastic Anemia,Hematology,Critical,ICD-10,Yes
+DX0310,Sickle Cell Disease,Hematology,High,ICD-10,Yes
+DX0311,Hemophilia,Hematology,High,ICD-10,Yes
+DX0312,Thrombocytopenia,Hematology,High,ICD-10,Yes
+DX0313,Polycythemia Vera,Hematology,High,ICD-10,Yes
+DX0314,Deep Vein Thrombosis,Hematology,High,ICD-10,Yes
+DX0315,Pulmonary Embolism,Hematology,Critical,ICD-10,Yes
+DX0316,Systemic Lupus Erythematosus,Immunology,High,ICD-10,Yes
+DX0317,Sjogren Syndrome,Immunology,Medium,ICD-10,Yes
+DX0318,Vasculitis,Immunology,High,ICD-10,Yes
+DX0319,Ankylosing Spondylitis,Immunology,High,ICD-10,Yes
+DX0320,Psoriatic Arthritis,Immunology,Medium,ICD-10,Yes
+DX0321,Autoimmune Hepatitis,Immunology,High,ICD-10,Yes
+DX0322,Primary Immunodeficiency,Immunology,Critical,ICD-10,Yes
+DX0323,Allergic Rhinitis,Immunology,Low,ICD-10,Yes
+DX0324,Drug Allergy,Immunology,Medium,ICD-10,Yes
+DX0325,Anaphylaxis,Immunology,Critical,ICD-10,Yes
+DX0326,Fever,General Medicine,Low,ICD-10,Yes
+DX0327,Viral Fever,General Medicine,Low,ICD-10,Yes
+DX0328,Dehydration,General Medicine,Medium,ICD-10,Yes
+DX0329,Syncope,General Medicine,Medium,ICD-10,Yes
+DX0330,Weight Loss,General Medicine,Medium,ICD-10,Yes
+DX0331,Fatigue,General Medicine,Low,ICD-10,Yes
+DX0332,General Weakness,General Medicine,Low,ICD-10,Yes
+DX0333,Loss Of Appetite,General Medicine,Low,ICD-10,Yes
+DX0334,Chest Pain,General Medicine,High,ICD-10,Yes
+DX0335,Abdominal Pain,General Medicine,Medium,ICD-10,Yes

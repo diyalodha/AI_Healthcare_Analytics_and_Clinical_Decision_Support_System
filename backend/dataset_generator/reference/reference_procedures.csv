@@ -1,0 +1,11 @@
+Reference_ID,Procedure_Code,Procedure_Name,Procedure_Category,Department,Complexity_Level,Average_Duration_Minutes,Requires_OT,Requires_Anesthesia,Common_Usage,Status,Created_Source
+PROC_REF_001,PROC001,General Surgery,Surgical,General Surgery,Medium,120,Yes,Yes,Abdominal and general operations,Active,Ground_Truth_Reference
+PROC_REF_002,PROC002,Appendectomy,Surgical,General Surgery,Medium,90,Yes,Yes,Appendicitis treatment,Active,Ground_Truth_Reference
+PROC_REF_003,PROC003,Coronary Artery Bypass Surgery,Cardiac Surgery,Cardiology,High,360,Yes,Yes,Blocked coronary artery treatment,Active,Ground_Truth_Reference
+PROC_REF_004,PROC004,Angioplasty,Cardiac Procedure,Cardiology,High,120,No,Yes,Coronary artery blockage,Active,Ground_Truth_Reference
+PROC_REF_005,PROC005,MRI Scan,Diagnostic Imaging,Radiology,Low,60,No,Sometimes,Disease diagnosis and imaging,Active,Ground_Truth_Reference
+PROC_REF_006,PROC006,CT Scan,Diagnostic Imaging,Radiology,Low,30,No,No,Internal body imaging,Active,Ground_Truth_Reference
+PROC_REF_007,PROC007,ICU Ventilator Support,Critical Care,ICU,High,1440,No,No,Respiratory failure management,Active,Ground_Truth_Reference
+PROC_REF_008,PROC008,Blood Transfusion,Therapeutic,Blood Bank,Medium,180,No,No,Blood component replacement,Active,Ground_Truth_Reference
+PROC_REF_009,PROC009,Kidney Transplant,Transplant Surgery,Nephrology,Very High,480,Yes,Yes,End stage kidney disease,Active,Ground_Truth_Reference
+PROC_REF_010,PROC010,Chemotherapy,Therapeutic,Oncology,Medium,240,No,No,Cancer treatment,Active,Ground_Truth_Reference

@@ -1,0 +1,95 @@
+﻿# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+credentials/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Editors
+.vscode/
+.idea/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Database dumps and backups
+*.sql
+*.sql.gz
+*.dump
+*.bak
+backups/
+backup_*/
+**/rejection_backups/
+
+# Large generated datasets
+datasets/synthetic/*.csv
+datasets/synthetic/test_output/
+datasets/synthetic/*backup*
+datasets/synthetic/*_backup*
+datasets/synthetic/*_old*
+
+# Generated model artifacts
+*.pkl
+*.joblib
+*.h5
+*.keras
+*.pt
+*.pth
+*.onnx
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.swp
+
+# Generated report files
+reports/validation/*.json
+
+# Allow version-controlled SQL source scripts
+!database/**/*.sql
+
+# Ignore temporary copies of Git configuration
+.gitignore.backup_*
+
+# Generated rejected records and ETL recovery files
+backend/etl/*_rejected.csv
+backend/etl/*_rejected_before_fix_*.csv
+backend/etl/rejection_backups/
+backend/etl/archive/*_before_fix.py
+
+# Generated dataset test output and synthetic CSV exports
+datasets/synthetic/test_output/
+datasets/synthetic/*.csv
+datasets/synthetic/*backup*
+datasets/synthetic/*_backup*
+datasets/synthetic/*_old*
+
+# Temporary editor backup files
+*.bkp
+
+# Temporary and recovery files
+*.bak
+*.bak_*
+*.bkp
+*.backup_*
+backend/etl/.*checkpoint*.txt

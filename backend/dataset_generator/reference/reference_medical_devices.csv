@@ -1,0 +1,16 @@
+Device_Code,Device_Name,Category,Manufacturer,Maintenance_Interval,Status
+DEV001,Ventilator,Respiratory,Philips,6 Months,Active
+DEV002,ECG Machine,Cardiology,GE Healthcare,12 Months,Active
+DEV003,Patient Monitor,Monitoring,Mindray,6 Months,Active
+DEV004,Defibrillator,Emergency,Zoll,12 Months,Active
+DEV005,Infusion Pump,Medication Delivery,Baxter,6 Months,Active
+DEV006,Dialysis Machine,Nephrology,Fresenius,6 Months,Active
+DEV007,MRI Scanner,Radiology,Siemens,12 Months,Active
+DEV008,CT Scanner,Radiology,GE Healthcare,12 Months,Active
+DEV009,Ultrasound Machine,Radiology,Samsung,12 Months,Active
+DEV010,X-Ray Machine,Radiology,Canon,12 Months,Active
+DEV011,Pulse Oximeter,Monitoring,Masimo,12 Months,Active
+DEV012,Blood Gas Analyzer,Laboratory,Radiometer,12 Months,Active
+DEV013,Anesthesia Workstation,Operation Theater,Drager,6 Months,Active
+DEV014,Syringe Pump,Medication Delivery,B Braun,6 Months,Active
+DEV015,Hospital Bed Monitor,Monitoring,Hillrom,12 Months,Active

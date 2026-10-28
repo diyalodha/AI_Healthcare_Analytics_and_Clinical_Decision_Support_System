@@ -1,0 +1,26 @@
+Department_ID,Department_Name,Department_Code,Department_Type,Location,Floor_Number,Contact_Number,Email
+2a6ac46d-7040-4e55-8fc3-c9a99ff7a082,Cardiology,CARD,Clinical,Block B,1,+91-20-40015678,card@hospital.org
+0426da67-a1ac-4177-95a9-bfe6de45905d,Neurology,NEUR,Clinical,Block C,2,+91-20-40025678,neur@hospital.org
+380a5d04-f8cf-478f-acff-74242d40187b,Orthopedics,ORTH,Clinical,Block D,3,+91-20-40035678,orth@hospital.org
+f693eda5-2935-4a40-95fc-2a07de11b0a6,Pediatrics,PED,Clinical,Block E,4,+91-20-40045678,ped@hospital.org
+d3f45f92-a2ae-4e61-8f70-702b5e77627b,Gynecology,GYN,Clinical,Block A,5,+91-20-40055678,gyn@hospital.org
+bcf79905-3a22-4af2-9255-dff5b2270be7,Oncology,ONC,Clinical,Block B,6,+91-20-40065678,onc@hospital.org
+738b3b46-244c-4188-98fa-71c56a359840,Radiology,RAD,Diagnostic,Block C,7,+91-20-40075678,rad@hospital.org
+d44c9194-5284-4d50-8d77-aed50208f8f9,Pathology,PATH,Diagnostic,Block D,8,+91-20-40085678,path@hospital.org
+4e3405ce-4976-4e5f-8fd8-f68fa13a781d,Emergency,EMR,Emergency,Block E,9,+91-20-40095678,emr@hospital.org
+a2f225bc-f425-4d94-a6b1-602d1dd16f7d,ICU,ICU,Critical Care,Block A,10,+91-20-40105678,icu@hospital.org
+d026273c-70b4-45d9-bbe7-1a6155005c18,General Medicine,GEN,Clinical,Block B,11,+91-20-40115678,gen@hospital.org
+094037f0-5cf9-4248-b5c6-fcd81f3b0325,Pulmonology,PUL,Clinical,Block C,12,+91-20-40125678,pul@hospital.org
+dd6c7487-29aa-40af-8614-d5675bdae7b4,Nephrology,NEPH,Clinical,Block D,13,+91-20-40135678,neph@hospital.org
+3b9d0b96-838a-4154-beaa-085dee9f2362,Dermatology,DERM,Clinical,Block E,14,+91-20-40145678,derm@hospital.org
+1b5c6cfe-872a-4fc4-a086-69bb94bb6be1,Psychiatry,PSY,Clinical,Block A,15,+91-20-40155678,psy@hospital.org
+0af3702b-e41f-46c9-970e-46328d2c7b02,ENT,ENT,Clinical,Block B,16,+91-20-40165678,ent@hospital.org
+bd132cef-fefe-4094-bfba-865abf6c9aaf,Ophthalmology,OPH,Clinical,Block C,17,+91-20-40175678,oph@hospital.org
+5a49cdd9-2f21-4d44-9246-3e7bd24b8970,Urology,URO,Clinical,Block D,18,+91-20-40185678,uro@hospital.org
+a5dc79da-fa05-4f5f-bc65-e7ac2b26733c,Endocrinology,ENDO,Clinical,Block E,19,+91-20-40195678,endo@hospital.org
+080346d4-abbb-48cf-9ec8-869d09a7c150,Gastroenterology,GAST,Clinical,Block A,20,+91-20-40205678,gast@hospital.org
+c8f9cd23-d338-485b-a6c4-8edd81a04ef7,Anesthesiology,ANES,Support,Block B,21,+91-20-40215678,anes@hospital.org
+b1cd0f3b-3a48-47ba-86b8-b566875c5c4d,Physiotherapy,PHYS,Support,Block C,22,+91-20-40225678,phys@hospital.org
+5b543c9c-49fb-4441-9af1-7e89e687dac4,Pharmacy,PHAR,Support,Block D,23,+91-20-40235678,phar@hospital.org
+8f71a28a-c480-4c97-8248-bc08bef40e2d,Blood Bank,BB,Support,Block E,24,+91-20-40245678,bb@hospital.org
+e0b8b679-9702-4618-948a-82988445753b,Administration,ADMIN,Administrative,Block A,25,+91-20-40255678,admin@hospital.org

@@ -1,0 +1,251 @@
+Disease_Name,Disease_Category,ICD_Code,Description,Risk_Level,Chronic_Status,Common_Age_Group,Gender_Affected,Treatable
+Hypertension,Cardiovascular,I10-1,High blood pressure condition,Medium,Chronic,Adults,All,Yes
+Coronary Artery Disease,Cardiovascular,I25-2,Disease affecting coronary arteries,High,Chronic,Adults,All,Yes
+Heart Failure,Cardiovascular,I50-3,Condition where heart cannot pump effectively,High,Chronic,Adults,All,Yes
+Type 2 Diabetes Mellitus,Endocrine,E11-4,Metabolic disorder with high blood glucose,Medium,Chronic,Adults,All,Yes
+Type 1 Diabetes Mellitus,Endocrine,E10-5,Autoimmune diabetes condition,High,Chronic,Children and Adults,All,Managed
+Asthma,Respiratory,J45-6,Chronic airway inflammation disorder,Medium,Chronic,All Ages,All,Yes
+Chronic Obstructive Pulmonary Disease,Respiratory,J44-7,Progressive lung disease causing breathing problems,High,Chronic,Adults,All,Managed
+Stroke,Neurological,I63-8,Brain damage due to interrupted blood supply,High,Acute,Adults,All,Yes
+Epilepsy,Neurological,G40-9,Neurological disorder causing seizures,Medium,Chronic,All Ages,All,Yes
+Chronic Kidney Disease,Renal,N18-10,Progressive loss of kidney function,High,Chronic,Adults,All,Managed
+Pneumonia,Infectious,J18-11,Lung infection caused by pathogens,Medium,Acute,All Ages,All,Yes
+Tuberculosis,Infectious,A15-12,Bacterial infection affecting lungs,High,Acute,Adults,All,Yes
+Hypertension,Cardiovascular,I10-13,High blood pressure condition,Medium,Chronic,Adults,All,Yes
+Coronary Artery Disease,Cardiovascular,I25-14,Disease affecting coronary arteries,High,Chronic,Adults,All,Yes
+Heart Failure,Cardiovascular,I50-15,Condition where heart cannot pump effectively,High,Chronic,Adults,All,Yes
+Type 2 Diabetes Mellitus,Endocrine,E11-16,Metabolic disorder with high blood glucose,Medium,Chronic,Adults,All,Yes
+Type 1 Diabetes Mellitus,Endocrine,E10-17,Autoimmune diabetes condition,High,Chronic,Children and Adults,All,Managed
+Asthma,Respiratory,J45-18,Chronic airway inflammation disorder,Medium,Chronic,All Ages,All,Yes
+Chronic Obstructive Pulmonary Disease,Respiratory,J44-19,Progressive lung disease causing breathing problems,High,Chronic,Adults,All,Managed
+Stroke,Neurological,I63-20,Brain damage due to interrupted blood supply,High,Acute,Adults,All,Yes
+Epilepsy,Neurological,G40-21,Neurological disorder causing seizures,Medium,Chronic,All Ages,All,Yes
+Chronic Kidney Disease,Renal,N18-22,Progressive loss of kidney function,High,Chronic,Adults,All,Managed
+Pneumonia,Infectious,J18-23,Lung infection caused by pathogens,Medium,Acute,All Ages,All,Yes
+Tuberculosis,Infectious,A15-24,Bacterial infection affecting lungs,High,Acute,Adults,All,Yes
+Hypertension,Cardiovascular,I10-25,High blood pressure condition,Medium,Chronic,Adults,All,Yes
+Coronary Artery Disease,Cardiovascular,I25-26,Disease affecting coronary arteries,High,Chronic,Adults,All,Yes
+Heart Failure,Cardiovascular,I50-27,Condition where heart cannot pump effectively,High,Chronic,Adults,All,Yes
+Type 2 Diabetes Mellitus,Endocrine,E11-28,Metabolic disorder with high blood glucose,Medium,Chronic,Adults,All,Yes
+Type 1 Diabetes Mellitus,Endocrine,E10-29,Autoimmune diabetes condition,High,Chronic,Children and Adults,All,Managed
+Asthma,Respiratory,J45-30,Chronic airway inflammation disorder,Medium,Chronic,All Ages,All,Yes
+Chronic Obstructive Pulmonary Disease,Respiratory,J44-31,Progressive lung disease causing breathing problems,High,Chronic,Adults,All,Managed
+Stroke,Neurological,I63-32,Brain damage due to interrupted blood supply,High,Acute,Adults,All,Yes
+Epilepsy,Neurological,G40-33,Neurological disorder causing seizures,Medium,Chronic,All Ages,All,Yes
+Chronic Kidney Disease,Renal,N18-34,Progressive loss of kidney function,High,Chronic,Adults,All,Managed
+Pneumonia,Infectious,J18-35,Lung infection caused by pathogens,Medium,Acute,All Ages,All,Yes
+Tuberculosis,Infectious,A15-36,Bacterial infection affecting lungs,High,Acute,Adults,All,Yes
+Hypertension,Cardiovascular,I10-37,High blood pressure condition,Medium,Chronic,Adults,All,Yes
+Coronary Artery Disease,Cardiovascular,I25-38,Disease affecting coronary arteries,High,Chronic,Adults,All,Yes
+Heart Failure,Cardiovascular,I50-39,Condition where heart cannot pump effectively,High,Chronic,Adults,All,Yes
+Type 2 Diabetes Mellitus,Endocrine,E11-40,Metabolic disorder with high blood glucose,Medium,Chronic,Adults,All,Yes
+Type 1 Diabetes Mellitus,Endocrine,E10-41,Autoimmune diabetes condition,High,Chronic,Children and Adults,All,Managed
+Asthma,Respiratory,J45-42,Chronic airway inflammation disorder,Medium,Chronic,All Ages,All,Yes
+Chronic Obstructive Pulmonary Disease,Respiratory,J44-43,Progressive lung disease causing breathing problems,High,Chronic,Adults,All,Managed
+Stroke,Neurological,I63-44,Brain damage due to interrupted blood supply,High,Acute,Adults,All,Yes
+Epilepsy,Neurological,G40-45,Neurological disorder causing seizures,Medium,Chronic,All Ages,All,Yes
+Chronic Kidney Disease,Renal,N18-46,Progressive loss of kidney function,High,Chronic,Adults,All,Managed
+Pneumonia,Infectious,J18-47,Lung infection caused by pathogens,Medium,Acute,All Ages,All,Yes
+Tuberculosis,Infectious,A15-48,Bacterial infection affecting lungs,High,Acute,Adults,All,Yes
+Hypertension,Cardiovascular,I10-49,High blood pressure condition,Medium,Chronic,Adults,All,Yes
+Coronary Artery Disease,Cardiovascular,I25-50,Disease affecting coronary arteries,High,Chronic,Adults,All,Yes
+Heart Failure,Cardiovascular,I50-51,Condition where heart cannot pump effectively,High,Chronic,Adults,All,Yes
+Type 2 Diabetes Mellitus,Endocrine,E11-52,Metabolic disorder with high blood glucose,Medium,Chronic,Adults,All,Yes
+Type 1 Diabetes Mellitus,Endocrine,E10-53,Autoimmune diabetes condition,High,Chronic,Children and Adults,All,Managed
+Asthma,Respiratory,J45-54,Chronic airway inflammation disorder,Medium,Chronic,All Ages,All,Yes
+Chronic Obstructive Pulmonary Disease,Respiratory,J44-55,Progressive lung disease causing breathing problems,High,Chronic,Adults,All,Managed
+Stroke,Neurological,I63-56,Brain damage due to interrupted blood supply,High,Acute,Adults,All,Yes
+Epilepsy,Neurological,G40-57,Neurological disorder causing seizures,Medium,Chronic,All Ages,All,Yes
+Chronic Kidney Disease,Renal,N18-58,Progressive loss of kidney function,High,Chronic,Adults,All,Managed
+Pneumonia,Infectious,J18-59,Lung infection caused by pathogens,Medium,Acute,All Ages,All,Yes
+Tuberculosis,Infectious,A15-60,Bacterial infection affecting lungs,High,Acute,Adults,All,Yes
+Hypertension,Cardiovascular,I10-61,High blood pressure condition,Medium,Chronic,Adults,All,Yes
+Coronary Artery Disease,Cardiovascular,I25-62,Disease affecting coronary arteries,High,Chronic,Adults,All,Yes
+Heart Failure,Cardiovascular,I50-63,Condition where heart cannot pump effectively,High,Chronic,Adults,All,Yes
+Type 2 Diabetes Mellitus,Endocrine,E11-64,Metabolic disorder with high blood glucose,Medium,Chronic,Adults,All,Yes
+Type 1 Diabetes Mellitus,Endocrine,E10-65,Autoimmune diabetes condition,High,Chronic,Children and Adults,All,Managed
+Asthma,Respiratory,J45-66,Chronic airway inflammation disorder,Medium,Chronic,All Ages,All,Yes
+Chronic Obstructive Pulmonary Disease,Respiratory,J44-67,Progressive lung disease causing breathing problems,High,Chronic,Adults,All,Managed
+Stroke,Neurological,I63-68,Brain damage due to interrupted blood supply,High,Acute,Adults,All,Yes
+Epilepsy,Neurological,G40-69,Neurological disorder causing seizures,Medium,Chronic,All Ages,All,Yes
+Chronic Kidney Disease,Renal,N18-70,Progressive loss of kidney function,High,Chronic,Adults,All,Managed
+Pneumonia,Infectious,J18-71,Lung infection caused by pathogens,Medium,Acute,All Ages,All,Yes
+Tuberculosis,Infectious,A15-72,Bacterial infection affecting lungs,High,Acute,Adults,All,Yes
+Hypertension,Cardiovascular,I10-73,High blood pressure condition,Medium,Chronic,Adults,All,Yes
+Coronary Artery Disease,Cardiovascular,I25-74,Disease affecting coronary arteries,High,Chronic,Adults,All,Yes
+Heart Failure,Cardiovascular,I50-75,Condition where heart cannot pump effectively,High,Chronic,Adults,All,Yes
+Type 2 Diabetes Mellitus,Endocrine,E11-76,Metabolic disorder with high blood glucose,Medium,Chronic,Adults,All,Yes
+Type 1 Diabetes Mellitus,Endocrine,E10-77,Autoimmune diabetes condition,High,Chronic,Children and Adults,All,Managed
+Asthma,Respiratory,J45-78,Chronic airway inflammation disorder,Medium,Chronic,All Ages,All,Yes
+Chronic Obstructive Pulmonary Disease,Respiratory,J44-79,Progressive lung disease causing breathing problems,High,Chronic,Adults,All,Managed
+Stroke,Neurological,I63-80,Brain damage due to interrupted blood supply,High,Acute,Adults,All,Yes
+Epilepsy,Neurological,G40-81,Neurological disorder causing seizures,Medium,Chronic,All Ages,All,Yes
+Chronic Kidney Disease,Renal,N18-82,Progressive loss of kidney function,High,Chronic,Adults,All,Managed
+Pneumonia,Infectious,J18-83,Lung infection caused by pathogens,Medium,Acute,All Ages,All,Yes
+Tuberculosis,Infectious,A15-84,Bacterial infection affecting lungs,High,Acute,Adults,All,Yes
+Hypertension,Cardiovascular,I10-85,High blood pressure condition,Medium,Chronic,Adults,All,Yes
+Coronary Artery Disease,Cardiovascular,I25-86,Disease affecting coronary arteries,High,Chronic,Adults,All,Yes
+Heart Failure,Cardiovascular,I50-87,Condition where heart cannot pump effectively,High,Chronic,Adults,All,Yes
+Type 2 Diabetes Mellitus,Endocrine,E11-88,Metabolic disorder with high blood glucose,Medium,Chronic,Adults,All,Yes
+Type 1 Diabetes Mellitus,Endocrine,E10-89,Autoimmune diabetes condition,High,Chronic,Children and Adults,All,Managed
+Asthma,Respiratory,J45-90,Chronic airway inflammation disorder,Medium,Chronic,All Ages,All,Yes
+Chronic Obstructive Pulmonary Disease,Respiratory,J44-91,Progressive lung disease causing breathing problems,High,Chronic,Adults,All,Managed
+Stroke,Neurological,I63-92,Brain damage due to interrupted blood supply,High,Acute,Adults,All,Yes
+Epilepsy,Neurological,G40-93,Neurological disorder causing seizures,Medium,Chronic,All Ages,All,Yes
+Chronic Kidney Disease,Renal,N18-94,Progressive loss of kidney function,High,Chronic,Adults,All,Managed
+Pneumonia,Infectious,J18-95,Lung infection caused by pathogens,Medium,Acute,All Ages,All,Yes
+Tuberculosis,Infectious,A15-96,Bacterial infection affecting lungs,High,Acute,Adults,All,Yes
+Hypertension,Cardiovascular,I10-97,High blood pressure condition,Medium,Chronic,Adults,All,Yes
+Coronary Artery Disease,Cardiovascular,I25-98,Disease affecting coronary arteries,High,Chronic,Adults,All,Yes
+Heart Failure,Cardiovascular,I50-99,Condition where heart cannot pump effectively,High,Chronic,Adults,All,Yes
+Type 2 Diabetes Mellitus,Endocrine,E11-100,Metabolic disorder with high blood glucose,Medium,Chronic,Adults,All,Yes
+Type 1 Diabetes Mellitus,Endocrine,E10-101,Autoimmune diabetes condition,High,Chronic,Children and Adults,All,Managed
+Asthma,Respiratory,J45-102,Chronic airway inflammation disorder,Medium,Chronic,All Ages,All,Yes
+Chronic Obstructive Pulmonary Disease,Respiratory,J44-103,Progressive lung disease causing breathing problems,High,Chronic,Adults,All,Managed
+Stroke,Neurological,I63-104,Brain damage due to interrupted blood supply,High,Acute,Adults,All,Yes
+Epilepsy,Neurological,G40-105,Neurological disorder causing seizures,Medium,Chronic,All Ages,All,Yes
+Chronic Kidney Disease,Renal,N18-106,Progressive loss of kidney function,High,Chronic,Adults,All,Managed
+Pneumonia,Infectious,J18-107,Lung infection caused by pathogens,Medium,Acute,All Ages,All,Yes
+Tuberculosis,Infectious,A15-108,Bacterial infection affecting lungs,High,Acute,Adults,All,Yes
+Hypertension,Cardiovascular,I10-109,High blood pressure condition,Medium,Chronic,Adults,All,Yes
+Coronary Artery Disease,Cardiovascular,I25-110,Disease affecting coronary arteries,High,Chronic,Adults,All,Yes
+Heart Failure,Cardiovascular,I50-111,Condition where heart cannot pump effectively,High,Chronic,Adults,All,Yes
+Type 2 Diabetes Mellitus,Endocrine,E11-112,Metabolic disorder with high blood glucose,Medium,Chronic,Adults,All,Yes
+Type 1 Diabetes Mellitus,Endocrine,E10-113,Autoimmune diabetes condition,High,Chronic,Children and Adults,All,Managed
+Asthma,Respiratory,J45-114,Chronic airway inflammation disorder,Medium,Chronic,All Ages,All,Yes
+Chronic Obstructive Pulmonary Disease,Respiratory,J44-115,Progressive lung disease causing breathing problems,High,Chronic,Adults,All,Managed
+Stroke,Neurological,I63-116,Brain damage due to interrupted blood supply,High,Acute,Adults,All,Yes
+Epilepsy,Neurological,G40-117,Neurological disorder causing seizures,Medium,Chronic,All Ages,All,Yes
+Chronic Kidney Disease,Renal,N18-118,Progressive loss of kidney function,High,Chronic,Adults,All,Managed
+Pneumonia,Infectious,J18-119,Lung infection caused by pathogens,Medium,Acute,All Ages,All,Yes
+Tuberculosis,Infectious,A15-120,Bacterial infection affecting lungs,High,Acute,Adults,All,Yes
+Hypertension,Cardiovascular,I10-121,High blood pressure condition,Medium,Chronic,Adults,All,Yes
+Coronary Artery Disease,Cardiovascular,I25-122,Disease affecting coronary arteries,High,Chronic,Adults,All,Yes
+Heart Failure,Cardiovascular,I50-123,Condition where heart cannot pump effectively,High,Chronic,Adults,All,Yes
+Type 2 Diabetes Mellitus,Endocrine,E11-124,Metabolic disorder with high blood glucose,Medium,Chronic,Adults,All,Yes
+Type 1 Diabetes Mellitus,Endocrine,E10-125,Autoimmune diabetes condition,High,Chronic,Children and Adults,All,Managed
+Asthma,Respiratory,J45-126,Chronic airway inflammation disorder,Medium,Chronic,All Ages,All,Yes
+Chronic Obstructive Pulmonary Disease,Respiratory,J44-127,Progressive lung disease causing breathing problems,High,Chronic,Adults,All,Managed
+Stroke,Neurological,I63-128,Brain damage due to interrupted blood supply,High,Acute,Adults,All,Yes
+Epilepsy,Neurological,G40-129,Neurological disorder causing seizures,Medium,Chronic,All Ages,All,Yes
+Chronic Kidney Disease,Renal,N18-130,Progressive loss of kidney function,High,Chronic,Adults,All,Managed
+Pneumonia,Infectious,J18-131,Lung infection caused by pathogens,Medium,Acute,All Ages,All,Yes
+Tuberculosis,Infectious,A15-132,Bacterial infection affecting lungs,High,Acute,Adults,All,Yes
+Hypertension,Cardiovascular,I10-133,High blood pressure condition,Medium,Chronic,Adults,All,Yes
+Coronary Artery Disease,Cardiovascular,I25-134,Disease affecting coronary arteries,High,Chronic,Adults,All,Yes
+Heart Failure,Cardiovascular,I50-135,Condition where heart cannot pump effectively,High,Chronic,Adults,All,Yes
+Type 2 Diabetes Mellitus,Endocrine,E11-136,Metabolic disorder with high blood glucose,Medium,Chronic,Adults,All,Yes
+Type 1 Diabetes Mellitus,Endocrine,E10-137,Autoimmune diabetes condition,High,Chronic,Children and Adults,All,Managed
+Asthma,Respiratory,J45-138,Chronic airway inflammation disorder,Medium,Chronic,All Ages,All,Yes
+Chronic Obstructive Pulmonary Disease,Respiratory,J44-139,Progressive lung disease causing breathing problems,High,Chronic,Adults,All,Managed
+Stroke,Neurological,I63-140,Brain damage due to interrupted blood supply,High,Acute,Adults,All,Yes
+Epilepsy,Neurological,G40-141,Neurological disorder causing seizures,Medium,Chronic,All Ages,All,Yes
+Chronic Kidney Disease,Renal,N18-142,Progressive loss of kidney function,High,Chronic,Adults,All,Managed
+Pneumonia,Infectious,J18-143,Lung infection caused by pathogens,Medium,Acute,All Ages,All,Yes
+Tuberculosis,Infectious,A15-144,Bacterial infection affecting lungs,High,Acute,Adults,All,Yes
+Hypertension,Cardiovascular,I10-145,High blood pressure condition,Medium,Chronic,Adults,All,Yes
+Coronary Artery Disease,Cardiovascular,I25-146,Disease affecting coronary arteries,High,Chronic,Adults,All,Yes
+Heart Failure,Cardiovascular,I50-147,Condition where heart cannot pump effectively,High,Chronic,Adults,All,Yes
+Type 2 Diabetes Mellitus,Endocrine,E11-148,Metabolic disorder with high blood glucose,Medium,Chronic,Adults,All,Yes
+Type 1 Diabetes Mellitus,Endocrine,E10-149,Autoimmune diabetes condition,High,Chronic,Children and Adults,All,Managed
+Asthma,Respiratory,J45-150,Chronic airway inflammation disorder,Medium,Chronic,All Ages,All,Yes
+Chronic Obstructive Pulmonary Disease,Respiratory,J44-151,Progressive lung disease causing breathing problems,High,Chronic,Adults,All,Managed
+Stroke,Neurological,I63-152,Brain damage due to interrupted blood supply,High,Acute,Adults,All,Yes
+Epilepsy,Neurological,G40-153,Neurological disorder causing seizures,Medium,Chronic,All Ages,All,Yes
+Chronic Kidney Disease,Renal,N18-154,Progressive loss of kidney function,High,Chronic,Adults,All,Managed
+Pneumonia,Infectious,J18-155,Lung infection caused by pathogens,Medium,Acute,All Ages,All,Yes
+Tuberculosis,Infectious,A15-156,Bacterial infection affecting lungs,High,Acute,Adults,All,Yes
+Hypertension,Cardiovascular,I10-157,High blood pressure condition,Medium,Chronic,Adults,All,Yes
+Coronary Artery Disease,Cardiovascular,I25-158,Disease affecting coronary arteries,High,Chronic,Adults,All,Yes
+Heart Failure,Cardiovascular,I50-159,Condition where heart cannot pump effectively,High,Chronic,Adults,All,Yes
+Type 2 Diabetes Mellitus,Endocrine,E11-160,Metabolic disorder with high blood glucose,Medium,Chronic,Adults,All,Yes
+Type 1 Diabetes Mellitus,Endocrine,E10-161,Autoimmune diabetes condition,High,Chronic,Children and Adults,All,Managed
+Asthma,Respiratory,J45-162,Chronic airway inflammation disorder,Medium,Chronic,All Ages,All,Yes
+Chronic Obstructive Pulmonary Disease,Respiratory,J44-163,Progressive lung disease causing breathing problems,High,Chronic,Adults,All,Managed
+Stroke,Neurological,I63-164,Brain damage due to interrupted blood supply,High,Acute,Adults,All,Yes
+Epilepsy,Neurological,G40-165,Neurological disorder causing seizures,Medium,Chronic,All Ages,All,Yes
+Chronic Kidney Disease,Renal,N18-166,Progressive loss of kidney function,High,Chronic,Adults,All,Managed
+Pneumonia,Infectious,J18-167,Lung infection caused by pathogens,Medium,Acute,All Ages,All,Yes
+Tuberculosis,Infectious,A15-168,Bacterial infection affecting lungs,High,Acute,Adults,All,Yes
+Hypertension,Cardiovascular,I10-169,High blood pressure condition,Medium,Chronic,Adults,All,Yes
+Coronary Artery Disease,Cardiovascular,I25-170,Disease affecting coronary arteries,High,Chronic,Adults,All,Yes
+Heart Failure,Cardiovascular,I50-171,Condition where heart cannot pump effectively,High,Chronic,Adults,All,Yes
+Type 2 Diabetes Mellitus,Endocrine,E11-172,Metabolic disorder with high blood glucose,Medium,Chronic,Adults,All,Yes
+Type 1 Diabetes Mellitus,Endocrine,E10-173,Autoimmune diabetes condition,High,Chronic,Children and Adults,All,Managed
+Asthma,Respiratory,J45-174,Chronic airway inflammation disorder,Medium,Chronic,All Ages,All,Yes
+Chronic Obstructive Pulmonary Disease,Respiratory,J44-175,Progressive lung disease causing breathing problems,High,Chronic,Adults,All,Managed
+Stroke,Neurological,I63-176,Brain damage due to interrupted blood supply,High,Acute,Adults,All,Yes
+Epilepsy,Neurological,G40-177,Neurological disorder causing seizures,Medium,Chronic,All Ages,All,Yes
+Chronic Kidney Disease,Renal,N18-178,Progressive loss of kidney function,High,Chronic,Adults,All,Managed
+Pneumonia,Infectious,J18-179,Lung infection caused by pathogens,Medium,Acute,All Ages,All,Yes
+Tuberculosis,Infectious,A15-180,Bacterial infection affecting lungs,High,Acute,Adults,All,Yes
+Hypertension,Cardiovascular,I10-181,High blood pressure condition,Medium,Chronic,Adults,All,Yes
+Coronary Artery Disease,Cardiovascular,I25-182,Disease affecting coronary arteries,High,Chronic,Adults,All,Yes
+Heart Failure,Cardiovascular,I50-183,Condition where heart cannot pump effectively,High,Chronic,Adults,All,Yes
+Type 2 Diabetes Mellitus,Endocrine,E11-184,Metabolic disorder with high blood glucose,Medium,Chronic,Adults,All,Yes
+Type 1 Diabetes Mellitus,Endocrine,E10-185,Autoimmune diabetes condition,High,Chronic,Children and Adults,All,Managed
+Asthma,Respiratory,J45-186,Chronic airway inflammation disorder,Medium,Chronic,All Ages,All,Yes
+Chronic Obstructive Pulmonary Disease,Respiratory,J44-187,Progressive lung disease causing breathing problems,High,Chronic,Adults,All,Managed
+Stroke,Neurological,I63-188,Brain damage due to interrupted blood supply,High,Acute,Adults,All,Yes
+Epilepsy,Neurological,G40-189,Neurological disorder causing seizures,Medium,Chronic,All Ages,All,Yes
+Chronic Kidney Disease,Renal,N18-190,Progressive loss of kidney function,High,Chronic,Adults,All,Managed
+Pneumonia,Infectious,J18-191,Lung infection caused by pathogens,Medium,Acute,All Ages,All,Yes
+Tuberculosis,Infectious,A15-192,Bacterial infection affecting lungs,High,Acute,Adults,All,Yes
+Hypertension,Cardiovascular,I10-193,High blood pressure condition,Medium,Chronic,Adults,All,Yes
+Coronary Artery Disease,Cardiovascular,I25-194,Disease affecting coronary arteries,High,Chronic,Adults,All,Yes
+Heart Failure,Cardiovascular,I50-195,Condition where heart cannot pump effectively,High,Chronic,Adults,All,Yes
+Type 2 Diabetes Mellitus,Endocrine,E11-196,Metabolic disorder with high blood glucose,Medium,Chronic,Adults,All,Yes
+Type 1 Diabetes Mellitus,Endocrine,E10-197,Autoimmune diabetes condition,High,Chronic,Children and Adults,All,Managed
+Asthma,Respiratory,J45-198,Chronic airway inflammation disorder,Medium,Chronic,All Ages,All,Yes
+Chronic Obstructive Pulmonary Disease,Respiratory,J44-199,Progressive lung disease causing breathing problems,High,Chronic,Adults,All,Managed
+Stroke,Neurological,I63-200,Brain damage due to interrupted blood supply,High,Acute,Adults,All,Yes
+Epilepsy,Neurological,G40-201,Neurological disorder causing seizures,Medium,Chronic,All Ages,All,Yes
+Chronic Kidney Disease,Renal,N18-202,Progressive loss of kidney function,High,Chronic,Adults,All,Managed
+Pneumonia,Infectious,J18-203,Lung infection caused by pathogens,Medium,Acute,All Ages,All,Yes
+Tuberculosis,Infectious,A15-204,Bacterial infection affecting lungs,High,Acute,Adults,All,Yes
+Hypertension,Cardiovascular,I10-205,High blood pressure condition,Medium,Chronic,Adults,All,Yes
+Coronary Artery Disease,Cardiovascular,I25-206,Disease affecting coronary arteries,High,Chronic,Adults,All,Yes
+Heart Failure,Cardiovascular,I50-207,Condition where heart cannot pump effectively,High,Chronic,Adults,All,Yes
+Type 2 Diabetes Mellitus,Endocrine,E11-208,Metabolic disorder with high blood glucose,Medium,Chronic,Adults,All,Yes
+Type 1 Diabetes Mellitus,Endocrine,E10-209,Autoimmune diabetes condition,High,Chronic,Children and Adults,All,Managed
+Asthma,Respiratory,J45-210,Chronic airway inflammation disorder,Medium,Chronic,All Ages,All,Yes
+Chronic Obstructive Pulmonary Disease,Respiratory,J44-211,Progressive lung disease causing breathing problems,High,Chronic,Adults,All,Managed
+Stroke,Neurological,I63-212,Brain damage due to interrupted blood supply,High,Acute,Adults,All,Yes
+Epilepsy,Neurological,G40-213,Neurological disorder causing seizures,Medium,Chronic,All Ages,All,Yes
+Chronic Kidney Disease,Renal,N18-214,Progressive loss of kidney function,High,Chronic,Adults,All,Managed
+Pneumonia,Infectious,J18-215,Lung infection caused by pathogens,Medium,Acute,All Ages,All,Yes
+Tuberculosis,Infectious,A15-216,Bacterial infection affecting lungs,High,Acute,Adults,All,Yes
+Hypertension,Cardiovascular,I10-217,High blood pressure condition,Medium,Chronic,Adults,All,Yes
+Coronary Artery Disease,Cardiovascular,I25-218,Disease affecting coronary arteries,High,Chronic,Adults,All,Yes
+Heart Failure,Cardiovascular,I50-219,Condition where heart cannot pump effectively,High,Chronic,Adults,All,Yes
+Type 2 Diabetes Mellitus,Endocrine,E11-220,Metabolic disorder with high blood glucose,Medium,Chronic,Adults,All,Yes
+Type 1 Diabetes Mellitus,Endocrine,E10-221,Autoimmune diabetes condition,High,Chronic,Children and Adults,All,Managed
+Asthma,Respiratory,J45-222,Chronic airway inflammation disorder,Medium,Chronic,All Ages,All,Yes
+Chronic Obstructive Pulmonary Disease,Respiratory,J44-223,Progressive lung disease causing breathing problems,High,Chronic,Adults,All,Managed
+Stroke,Neurological,I63-224,Brain damage due to interrupted blood supply,High,Acute,Adults,All,Yes
+Epilepsy,Neurological,G40-225,Neurological disorder causing seizures,Medium,Chronic,All Ages,All,Yes
+Chronic Kidney Disease,Renal,N18-226,Progressive loss of kidney function,High,Chronic,Adults,All,Managed
+Pneumonia,Infectious,J18-227,Lung infection caused by pathogens,Medium,Acute,All Ages,All,Yes
+Tuberculosis,Infectious,A15-228,Bacterial infection affecting lungs,High,Acute,Adults,All,Yes
+Hypertension,Cardiovascular,I10-229,High blood pressure condition,Medium,Chronic,Adults,All,Yes
+Coronary Artery Disease,Cardiovascular,I25-230,Disease affecting coronary arteries,High,Chronic,Adults,All,Yes
+Heart Failure,Cardiovascular,I50-231,Condition where heart cannot pump effectively,High,Chronic,Adults,All,Yes
+Type 2 Diabetes Mellitus,Endocrine,E11-232,Metabolic disorder with high blood glucose,Medium,Chronic,Adults,All,Yes
+Type 1 Diabetes Mellitus,Endocrine,E10-233,Autoimmune diabetes condition,High,Chronic,Children and Adults,All,Managed
+Asthma,Respiratory,J45-234,Chronic airway inflammation disorder,Medium,Chronic,All Ages,All,Yes
+Chronic Obstructive Pulmonary Disease,Respiratory,J44-235,Progressive lung disease causing breathing problems,High,Chronic,Adults,All,Managed
+Stroke,Neurological,I63-236,Brain damage due to interrupted blood supply,High,Acute,Adults,All,Yes
+Epilepsy,Neurological,G40-237,Neurological disorder causing seizures,Medium,Chronic,All Ages,All,Yes
+Chronic Kidney Disease,Renal,N18-238,Progressive loss of kidney function,High,Chronic,Adults,All,Managed
+Pneumonia,Infectious,J18-239,Lung infection caused by pathogens,Medium,Acute,All Ages,All,Yes
+Tuberculosis,Infectious,A15-240,Bacterial infection affecting lungs,High,Acute,Adults,All,Yes
+Hypertension,Cardiovascular,I10-241,High blood pressure condition,Medium,Chronic,Adults,All,Yes
+Coronary Artery Disease,Cardiovascular,I25-242,Disease affecting coronary arteries,High,Chronic,Adults,All,Yes
+Heart Failure,Cardiovascular,I50-243,Condition where heart cannot pump effectively,High,Chronic,Adults,All,Yes
+Type 2 Diabetes Mellitus,Endocrine,E11-244,Metabolic disorder with high blood glucose,Medium,Chronic,Adults,All,Yes
+Type 1 Diabetes Mellitus,Endocrine,E10-245,Autoimmune diabetes condition,High,Chronic,Children and Adults,All,Managed
+Asthma,Respiratory,J45-246,Chronic airway inflammation disorder,Medium,Chronic,All Ages,All,Yes
+Chronic Obstructive Pulmonary Disease,Respiratory,J44-247,Progressive lung disease causing breathing problems,High,Chronic,Adults,All,Managed
+Stroke,Neurological,I63-248,Brain damage due to interrupted blood supply,High,Acute,Adults,All,Yes
+Epilepsy,Neurological,G40-249,Neurological disorder causing seizures,Medium,Chronic,All Ages,All,Yes
+Chronic Kidney Disease,Renal,N18-250,Progressive loss of kidney function,High,Chronic,Adults,All,Managed

@@ -1,0 +1,291 @@
+1. Database Overview
+Database Name
+
+healthcare_ai_db
+
+Purpose
+
+The database is designed to support the AI Healthcare Analytics & Clinical Decision Support System. It manages patient records, clinical data, hospital operations, AI-generated predictions, billing, laboratory reports, and administrative activities while maintaining data integrity, scalability, and security.
+
+Database Type
+Relational Database Management System (RDBMS)
+Database Engine
+MySQL 8.0.46
+Primary Key Strategy
+UUID (CHAR(36)) for all master and transaction tables.
+Audit Columns
+
+Every table contains:
+
+Created_At
+Updated_At
+
+2. Patients Table
+Category
+
+Master Table
+
+Purpose
+Stores complete patient demographic information.
+Maintains patient contact and identification details.
+Records lifestyle and health-related information.
+Acts as the primary entity for appointments, diagnoses, admissions, billing, AI predictions, and reports.
+Primary Key
+Patient_ID
+Relationships
+Patients → Appointments (1:N)
+Patients → Admissions (1:N)
+Patients → Diagnoses (1:N)
+Patients → Lab Results (1:N)
+Patients → Billing (1:N)
+Patients → Disease Risk Predictions (1:N)
+
+3. Departments Table
+Category
+
+Master Table
+
+Purpose
+Stores hospital departments.
+Supports doctor allocation.
+Enables department-wise analytics.
+Maintains operational information.
+Primary Key
+Department_ID
+Relationships
+Departments → Doctors (1:N)
+Departments → Appointments (1:N)
+
+4. Doctors Table
+Category
+
+Master Table
+
+Purpose
+Stores doctor profiles.
+Maintains qualifications and specialization.
+Supports appointments, diagnoses, and prescriptions.
+Links each doctor to a department.
+Primary Key
+Doctor_ID
+Foreign Key
+Department_ID → Departments.Department_ID
+Relationships
+Doctors → Appointments (1:N)
+Doctors → Diagnoses (1:N)
+Doctors → Prescriptions (1:N)
+
+5. Diseases Table
+Category
+
+Master Table
+
+Purpose
+Stores diseases supported by the system.
+Maintains ICD-10 codes.
+Stores disease categories and clinical information.
+Provides reference data for diagnoses and AI prediction models.
+Primary Key
+Disease_ID
+Relationships
+Diseases → Diagnoses (1:N)
+Diseases → AI Disease Prediction (1:N)
+
+6. Medications Table
+Category
+
+Master Table
+
+Purpose
+Stores medication master data.
+Supports prescriptions.
+Maintains dosage and administration details.
+Stores contraindications and side effects.
+Primary Key
+Medication_ID
+Relationships
+Medications → Prescription Items (1:N)
+
+7. Lab Tests Table
+Category
+
+Master Table
+
+Purpose
+Stores all laboratory tests offered by the hospital.
+Maintains standard test details and reference ranges.
+Supports laboratory report generation.
+Used for diagnosis and AI-based clinical analysis.
+Standardizes laboratory investigations across departments.
+Primary Key
+Lab_Test_ID
+Relationships
+Lab Tests → Patient Lab Results (1:N)
+Business Rules
+Every test must have a unique name.
+Every test code must be unique.
+A laboratory test can appear in multiple patient reports.
+Only active tests can be assigned to patients.
+
+8. Insurance Providers Table
+Category
+
+Master Table
+
+Purpose
+Stores insurance company information.
+Maintains provider contact details.
+Supports billing and claim processing.
+Enables insurance-based financial analytics.
+Primary Key
+Insurance_ID
+Relationships
+Insurance Providers → Patient Insurance (1:N) (to be created later)
+Insurance Providers → Billing (1:N)
+Business Rules
+Every insurance provider must have a unique name.
+Provider codes must be unique.
+Only active providers can be linked to patient insurance records.
+
+9. Appointments Table
+Category
+
+Transaction Table
+
+Purpose
+Stores all patient appointments.
+Connects patients, doctors, and departments.
+Tracks appointment status and consultation mode.
+Supports OPD scheduling and reporting.
+Serves as the entry point for diagnoses and prescriptions.
+Primary Key
+Appointment_ID
+Foreign Keys
+Patient_ID → Patients.Patient_ID
+Doctor_ID → Doctors.Doctor_ID
+Department_ID → Departments.Department_ID
+Relationships
+Patients → Appointments (1:N)
+Doctors → Appointments (1:N)
+Departments → Appointments (1:N)
+Business Rules
+Every appointment must be linked to one patient.
+Every appointment must be assigned to one doctor.
+Every appointment belongs to one department.
+Appointment date and time are mandatory.
+Status must be one of: Scheduled, Completed, Cancelled, or No Show.
+
+10. Admissions Table
+Category
+
+Transaction Table
+
+Purpose
+Stores all inpatient admission records.
+Tracks patient hospitalization.
+Maintains ward, room, and bed allocation.
+Supports discharge management.
+Used for occupancy analytics and patient flow analysis.
+Primary Key
+Admission_ID
+Foreign Keys
+Patient_ID → Patients
+Department_ID → Departments
+Admitting_Doctor_ID → Doctors
+Relationships
+Patients → Admissions (1:N)
+Departments → Admissions (1:N)
+Doctors → Admissions (1:N)
+Business Rules
+Every admission must belong to one patient.
+Every admission must be assigned to one department.
+Every admission must have one admitting doctor.
+Admission date is mandatory.
+A patient may have multiple admissions over time.
+
+11. Diagnoses Table
+Category
+
+Transaction Table
+
+Purpose
+Stores diagnoses made by doctors.
+Links patients with diseases.
+Captures symptoms, severity, and clinical notes.
+Forms the primary dataset for AI disease prediction and clinical decision support.
+Primary Key
+Diagnosis_ID
+Foreign Keys
+Patient_ID → Patients
+Doctor_ID → Doctors
+Disease_ID → Diseases
+Appointment_ID → Appointments
+Admission_ID → Admissions
+Relationships
+Patients → Diagnoses (1:N)
+Doctors → Diagnoses (1:N)
+Diseases → Diagnoses (1:N)
+Business Rules
+Every diagnosis must reference one patient.
+Every diagnosis must reference one disease.
+A diagnosis can originate from an appointment or an admission.
+Diagnosis status tracks confirmed and suspected conditions.
+
+12. Prescriptions Table
+Category
+
+Transaction Table
+
+Purpose
+Stores prescriptions issued by doctors.
+Links treatment plans to diagnoses.
+Records follow-up advice and prescription status.
+Serves as the parent table for prescription medicines.
+Primary Key
+Prescription_ID
+Foreign Keys
+Diagnosis_ID → Diagnoses
+Patient_ID → Patients
+Doctor_ID → Doctors
+Relationships
+Diagnoses → Prescriptions (1:N)
+Patients → Prescriptions (1:N)
+Doctors → Prescriptions (1:N)
+Business Rules
+Every prescription must belong to a diagnosis.
+One diagnosis may generate multiple prescriptions.
+A prescription can include multiple medicines (stored in the next table).
+
+Table Added: Lab_Results
+Purpose:
+
+Stores laboratory investigation outcomes for every patient.
+
+Relationship Added
+Patients
+    |
+    |
+    | 1:M
+    |
+Lab_Results
+    |
+    |
+    | M:1
+    |
+Lab_Tests
+
+
+Doctors
+    |
+    |
+    | 1:M
+    |
+Lab_Results
+Used By AI Module:
+
+Lab_Results will provide features for:
+
+✅ Disease Risk Prediction
+✅ Patient Health Score Calculation
+✅ Clinical Decision Recommendation
+✅ Explainable AI Analysis

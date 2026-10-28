@@ -1,0 +1,61 @@
+Specialization_Code,Specialization_Name,Department
+SP001,General Medicine,General Medicine
+SP002,Cardiology,Cardiology
+SP003,Neurology,Neurology
+SP004,Neurosurgery,Neurology
+SP005,Orthopedics,Orthopedics
+SP006,Pediatrics,Pediatrics
+SP007,Dermatology,Dermatology
+SP008,Psychiatry,Psychiatry
+SP009,Clinical Psychology,Psychiatry
+SP010,Gynecology,Gynecology
+SP011,Obstetrics,Gynecology
+SP012,Ophthalmology,Ophthalmology
+SP013,ENT,ENT
+SP014,Pulmonology,Pulmonology
+SP015,Nephrology,Nephrology
+SP016,Urology,Urology
+SP017,Gastroenterology,Gastroenterology
+SP018,Endocrinology,Endocrinology
+SP019,Oncology,Oncology
+SP020,Radiation Oncology,Oncology
+SP021,Radiology,Radiology
+SP022,Interventional Radiology,Radiology
+SP023,Pathology,Pathology
+SP024,Microbiology,Pathology
+SP025,Anesthesiology,Anesthesiology
+SP026,Emergency Medicine,Emergency
+SP027,Critical Care,ICU
+SP028,Trauma Surgery,Emergency
+SP029,Plastic Surgery,Surgery
+SP030,General Surgery,Surgery
+SP031,Cardiothoracic Surgery,Cardiology
+SP032,Vascular Surgery,Surgery
+SP033,Pediatric Surgery,Pediatrics
+SP034,Sports Medicine,Orthopedics
+SP035,Rheumatology,Rheumatology
+SP036,Immunology,Immunology
+SP037,Allergy Medicine,Immunology
+SP038,Infectious Diseases,Infectious Diseases
+SP039,Nuclear Medicine,Radiology
+SP040,Sleep Medicine,Pulmonology
+SP041,Pain Medicine,Anesthesiology
+SP042,Rehabilitation Medicine,Rehabilitation
+SP043,Physiotherapy,Rehabilitation
+SP044,Occupational Therapy,Rehabilitation
+SP045,Speech Therapy,Rehabilitation
+SP046,Dentistry,Dental
+SP047,Oral Surgery,Dental
+SP048,Periodontics,Dental
+SP049,Orthodontics,Dental
+SP050,Public Health,Community Medicine
+SP051,Community Medicine,Community Medicine
+SP052,Preventive Medicine,Community Medicine
+SP053,Forensic Medicine,Forensic Medicine
+SP054,Medical Genetics,Genetics
+SP055,Geriatrics,General Medicine
+SP056,Adolescent Medicine,Pediatrics
+SP057,Palliative Care,Oncology
+SP058,Diabetology,Endocrinology
+SP059,Clinical Pharmacology,Pharmacy
+SP060,Transfusion Medicine,Blood Bank

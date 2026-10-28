@@ -1,0 +1,501 @@
+Medication_Name,Generic_Name,Drug_Class,Used_For,Route,Dosage_Form,Strength,Risk_Level
+Metformin 1,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 2,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 3,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 4,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 5,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 6,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 7,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 8,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 9,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 10,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 11,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 12,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 13,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 14,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 15,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 16,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 17,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 18,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 19,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 20,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 21,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 22,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 23,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 24,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 25,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 26,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 27,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 28,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 29,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 30,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 31,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 32,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 33,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 34,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 35,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 36,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 37,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 38,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 39,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 40,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 41,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 42,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 43,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 44,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 45,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 46,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 47,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 48,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 49,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 50,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 51,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 52,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 53,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 54,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 55,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 56,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 57,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 58,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 59,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 60,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 61,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 62,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 63,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 64,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 65,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 66,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 67,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 68,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 69,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 70,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 71,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 72,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 73,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 74,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 75,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 76,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 77,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 78,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 79,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 80,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 81,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 82,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 83,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 84,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 85,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 86,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 87,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 88,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 89,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 90,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 91,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 92,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 93,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 94,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 95,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 96,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 97,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 98,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 99,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 100,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 101,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 102,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 103,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 104,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 105,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 106,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 107,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 108,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 109,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 110,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 111,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 112,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 113,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 114,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 115,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 116,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 117,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 118,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 119,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 120,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 121,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 122,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 123,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 124,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 125,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 126,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 127,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 128,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 129,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 130,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 131,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 132,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 133,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 134,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 135,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 136,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 137,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 138,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 139,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 140,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 141,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 142,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 143,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 144,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 145,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 146,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 147,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 148,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 149,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 150,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 151,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 152,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 153,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 154,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 155,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 156,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 157,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 158,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 159,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 160,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 161,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 162,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 163,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 164,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 165,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 166,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 167,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 168,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 169,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 170,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 171,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 172,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 173,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 174,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 175,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 176,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 177,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 178,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 179,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 180,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 181,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 182,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 183,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 184,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 185,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 186,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 187,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 188,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 189,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 190,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 191,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 192,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 193,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 194,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 195,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 196,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 197,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 198,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 199,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 200,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 201,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 202,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 203,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 204,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 205,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 206,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 207,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 208,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 209,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 210,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 211,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 212,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 213,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 214,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 215,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 216,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 217,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 218,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 219,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 220,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 221,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 222,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 223,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 224,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 225,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 226,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 227,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 228,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 229,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 230,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 231,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 232,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 233,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 234,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 235,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 236,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 237,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 238,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 239,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 240,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 241,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 242,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 243,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 244,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 245,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 246,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 247,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 248,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 249,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 250,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 251,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 252,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 253,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 254,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 255,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 256,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 257,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 258,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 259,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 260,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 261,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 262,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 263,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 264,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 265,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 266,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 267,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 268,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 269,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 270,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 271,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 272,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 273,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 274,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 275,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 276,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 277,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 278,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 279,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 280,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 281,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 282,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 283,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 284,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 285,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 286,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 287,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 288,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 289,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 290,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 291,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 292,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 293,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 294,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 295,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 296,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 297,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 298,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 299,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 300,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 301,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 302,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 303,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 304,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 305,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 306,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 307,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 308,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 309,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 310,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 311,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 312,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 313,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 314,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 315,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 316,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 317,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 318,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 319,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 320,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 321,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 322,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 323,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 324,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 325,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 326,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 327,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 328,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 329,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 330,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 331,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 332,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 333,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 334,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 335,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 336,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 337,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 338,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 339,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 340,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 341,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 342,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 343,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 344,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 345,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 346,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 347,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 348,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 349,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 350,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 351,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 352,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 353,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 354,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 355,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 356,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 357,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 358,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 359,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 360,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 361,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 362,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 363,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 364,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 365,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 366,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 367,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 368,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 369,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 370,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 371,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 372,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 373,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 374,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 375,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 376,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 377,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 378,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 379,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 380,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 381,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 382,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 383,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 384,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 385,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 386,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 387,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 388,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 389,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 390,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 391,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 392,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 393,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 394,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 395,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 396,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 397,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 398,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 399,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 400,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 401,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 402,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 403,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 404,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 405,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 406,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 407,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 408,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 409,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 410,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 411,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 412,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 413,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 414,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 415,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 416,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 417,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 418,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 419,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 420,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 421,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 422,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 423,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 424,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 425,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 426,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 427,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 428,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 429,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 430,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 431,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 432,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 433,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 434,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 435,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 436,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 437,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 438,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 439,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 440,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 441,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 442,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 443,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 444,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 445,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 446,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 447,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 448,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 449,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 450,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 451,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 452,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 453,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 454,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 455,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 456,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 457,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 458,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 459,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 460,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 461,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 462,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 463,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 464,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 465,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 466,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 467,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 468,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 469,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 470,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 471,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 472,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 473,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 474,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 475,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 476,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 477,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 478,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 479,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 480,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 481,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 482,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 483,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 484,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 485,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low
+Aspirin 486,Acetylsalicylic Acid,Antiplatelet,Cardiovascular Disease,Oral,Tablet,75 mg,Medium
+Salbutamol 487,Albuterol,Bronchodilator,Asthma,Inhalation,Inhaler,100 mcg,Medium
+Budesonide 488,Budesonide,Corticosteroid,Respiratory Disease,Inhalation,Inhaler,200 mcg,Medium
+Azithromycin 489,Azithromycin,Antibiotic,Bacterial Infection,Oral,Tablet,500 mg,Medium
+Ceftriaxone 490,Ceftriaxone Sodium,Antibiotic,Severe Infection,Injection,Injection,1 g,High
+Levetiracetam 491,Levetiracetam,Antiepileptic,Epilepsy,Oral,Tablet,500 mg,Medium
+Furosemide 492,Furosemide,Diuretic,Heart Failure,Oral,Tablet,40 mg,Medium
+Pantoprazole 493,Pantoprazole,Proton Pump Inhibitor,Acidity and Gastric Disorders,Oral,Tablet,40 mg,Low
+Paracetamol 494,Acetaminophen,Analgesic,Pain and Fever,Oral,Tablet,650 mg,Low
+Ondansetron 495,Ondansetron,Antiemetic,Nausea and Vomiting,Oral,Tablet,4 mg,Low
+Metformin 496,Metformin Hydrochloride,Antidiabetic,Type 2 Diabetes Mellitus,Oral,Tablet,500 mg,Low
+Insulin 497,Human Insulin,Antidiabetic,Diabetes Mellitus,Injection,Injection,100 IU/ml,High
+Amlodipine 498,Amlodipine,Calcium Channel Blocker,Hypertension,Oral,Tablet,5 mg,Low
+Losartan 499,Losartan Potassium,ARB,Hypertension,Oral,Tablet,50 mg,Low
+Atorvastatin 500,Atorvastatin Calcium,Statin,High Cholesterol,Oral,Tablet,20 mg,Low

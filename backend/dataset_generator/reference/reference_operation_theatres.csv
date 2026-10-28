@@ -1,0 +1,9 @@
+Reference_ID,OT_Code,OT_Name,OT_Category,Specialization,Capacity,Floor_Number,Equipment_Availability,Ventilation_System,Infection_Control_Level,Emergency_Available,Status,Created_Source
+OT_REF_001,OT001,General Surgery OT,General,General Surgery,Major Procedures,2,Standard Surgical Equipment,HEPA Filter,Level II,Yes,Active,Synthetic_Master_Data
+OT_REF_002,OT002,Cardiac Surgery OT,Specialized,Cardiology & Cardiac Surgery,Complex Cardiac Procedures,3,"Heart Lung Machine, Cardiac Monitor",Laminar Air Flow,Level III,Yes,Active,Synthetic_Master_Data
+OT_REF_003,OT003,Neurosurgery OT,Specialized,Neurosurgery,Brain & Spine Procedures,3,"Microscope, Neuro Navigation System",Laminar Air Flow,Level III,Yes,Active,Synthetic_Master_Data
+OT_REF_004,OT004,Orthopedic OT,Specialized,Orthopedics,Bone & Joint Procedures,2,"C-Arm, Orthopedic Tools",HEPA Filter,Level II,Yes,Active,Synthetic_Master_Data
+OT_REF_005,OT005,Emergency Trauma OT,Emergency,Trauma Surgery,Emergency Critical Procedures,1,Advanced Trauma Equipment,HEPA Filter,Level III,Yes,Active,Synthetic_Master_Data
+OT_REF_006,OT006,Obstetrics & Gynecology OT,Specialized,Obstetrics & Gynecology,Delivery & Gynecological Procedures,4,"Delivery Equipment, Ultrasound",HEPA Filter,Level II,Yes,Active,Synthetic_Master_Data
+OT_REF_007,OT007,Ophthalmology OT,Specialized,Eye Surgery,Micro Surgical Procedures,2,Operating Microscope,HEPA Filter,Level II,No,Active,Synthetic_Master_Data
+OT_REF_008,OT008,Robotic Surgery OT,Advanced,Robotic Surgery,Advanced Minimally Invasive Procedures,5,Robotic Surgical System,Laminar Air Flow,Level III,Yes,Active,Synthetic_Master_Data
